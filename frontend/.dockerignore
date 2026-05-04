@@ -1,0 +1,9 @@
+node_modules
+build
+.env
+.env.local
+.git
+.gitignore
+*.md
+.idea/
+.vscode/
